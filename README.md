@@ -25,4 +25,4 @@ Welcome to my data science and machine learning portfolio. This repository inclu
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/eleni-dogranli)
-- 📧 dogranlieleni.com
+- 📧 dogranlieleni@gmail.com
