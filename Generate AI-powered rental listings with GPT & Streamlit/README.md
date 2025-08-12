@@ -50,11 +50,9 @@ Description: Welcome to this charming studio apartment located in the popular Ko
 
 📁 Project Structure
 Generate AI-powered rental listings with GPT & Streamlit/
-├── app.py             # GPT logic
+├── rental_assistant.py # GPT logic
 
-├── app_ui.py          # Streamlit interface
-
-├── Καταγραφήτρ.PNG    # Screenshot
+├── screenshots.PNG    # Screenshot
 
 └── README.md          # Documentation
 
