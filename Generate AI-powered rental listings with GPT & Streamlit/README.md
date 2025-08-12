@@ -12,7 +12,9 @@ AI Rental Assistant is a lightweight AI-powered web application that generates p
 
 ## 📸 Screenshot
 
-![App Screenshot](./Καταγραφήτρ.PNG)
+<img width="834" height="585" alt="create" src="https://github.com/user-attachments/assets/a30bb1f0-6c6e-483c-a41e-b39a51c16058" />
+<img width="764" height="531" alt="done" src="https://github.com/user-attachments/assets/73dea98e-ed53-47b0-9d01-05361a30e4d2" />
+
 
 ## 🚀 How to Run the Project Locally
 
